@@ -29,6 +29,7 @@ A card visual was used to represent count of Employees.
 ![employee-count-card](https://github.com/alokrrbal/HR-Analytics-Dashboard/assets/116140888/dae3cb41-2d99-454f-9c37-7f9489b3cdea)
  
  Snap of Attrition 
+ 
  ![attrition-snap](https://github.com/alokrrbal/HR-Analytics-Dashboard/assets/116140888/7b23e46f-c465-43fe-8468-1d0969bcf68d)
 
  
